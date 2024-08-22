@@ -4,7 +4,7 @@
 </p> -->
 
 ### Hi there 👋 I'm [Vinícius Barbosa](https://www.linkedin.com/in/vinicius-barbosa-658761206/)
-> Software Engineer at [Black Bee Drones](https://blackbeedrones.com)
+> Full Stack Developer
 
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Vinny021" alt="Vinny021" /> -->
